@@ -8,7 +8,7 @@ const translations = {
     nav_education: "Formação",
     nav_contact: "Contato",
     hero_role: "Estudante de Ciência da Computação | Desenvolvimento de Software",
-    hero_badge: "Disponível para estágio",
+    hero_badge: "Disponível para estágio ou contratações",
     sys_user: "WHO AM I?",
     sys_role: "CS Student / Dev",
     sys_status: "Available for internship",
